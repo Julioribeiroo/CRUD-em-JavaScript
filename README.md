@@ -14,7 +14,3 @@ Contribuições são bem-vindas!
 
 Autor
 Desenvolvido por Julio Ribeiro.
-
-/*
- * Este código está licenciado sob os termos da Licença MIT.
- */
