@@ -9,7 +9,7 @@ Como Utilizar
 1. Baixe ou clone este repositório.
 2. Abra o arquivo index.html em um navegador.
 3. Use a interface para gerenciar os funcionários conforme necessário.
-Contribuição
+
 Contribuições são bem-vindas!
 
 Autor
